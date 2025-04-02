@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zappar.UAR", "Zappar.UAR.csproj", "{F64B4FCB-F3A7-2CA7-E0F4-2A1149F97B8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zappar.UAR.Editor", "Zappar.UAR.Editor.csproj", "{223AF6E3-7ACC-BF0E-0724-35262B5D1A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64B4FCB-F3A7-2CA7-E0F4-2A1149F97B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F64B4FCB-F3A7-2CA7-E0F4-2A1149F97B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F64B4FCB-F3A7-2CA7-E0F4-2A1149F97B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F64B4FCB-F3A7-2CA7-E0F4-2A1149F97B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223AF6E3-7ACC-BF0E-0724-35262B5D1A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223AF6E3-7ACC-BF0E-0724-35262B5D1A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223AF6E3-7ACC-BF0E-0724-35262B5D1A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223AF6E3-7ACC-BF0E-0724-35262B5D1A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
